@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kevinchami
-- 👀 I’m interested in computer science
+- 👀 I’m interested in developing new and interesting ideas 
 - 🌱 I’m currently learning computer science in Israel.
 - 💞️ I’m looking to collaborate on interesting projects
 - 📫 How to reach me: kevinchamy@hotmail.com
